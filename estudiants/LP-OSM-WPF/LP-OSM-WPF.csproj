@@ -8,6 +8,7 @@
     <RootNamespace>LP_OSM_WPF</RootNamespace>
     <UseWPF>true</UseWPF>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
     <ItemGroup>
