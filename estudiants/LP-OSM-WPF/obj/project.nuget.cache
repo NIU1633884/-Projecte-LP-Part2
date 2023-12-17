@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ocd2YEYpd4nSuu8+10Y7Zb1IH4QzyX66DHZ1M217B6beKvY37aMcQbazaIPBd4XsOZYrHpQYg8eWwxV4Nl9JTg==",
+  "dgSpecHash": "zq4E8oUZfNikhyNdDPtFtppGZQwnDEXF8CfelBsIpnpeWiB11INILoqyvPUSRvooUdhztrpHRGVqwIniTsdFnA==",
   "success": true,
-  "projectFilePath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+  "projectFilePath": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.toolkit.ui.xamlhost\\6.1.2\\microsoft.toolkit.ui.xamlhost.6.1.2.nupkg.sha512",
@@ -14,10 +14,10 @@
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512",
-    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.9\\microsoft.netcore.app.host.win-x64.3.1.9.nupkg.sha512",
-    "C:\\Users\\adria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.8\\microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.25\\microsoft.netcore.app.host.win-x86.3.1.25.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {}
+    "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {}
   },
   "projects": {
-    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
+    "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
+        "projectUniqueName": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
         "projectName": "LP-OSM-DLL",
-        "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
+        "projectPath": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "native": {}
       }
     },
-    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {
+    "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
         "projectName": "LP-OSM-WPF",
-        "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+        "projectPath": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\obj\\",
+        "outputPath": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
-                "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj"
+              "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
+                "projectPath": "C:\\Users\\adria\\Desktop\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj"
               }
             }
           }
@@ -86,11 +86,11 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.8, 3.1.8]"
+              "version": "[3.1.10, 3.1.10]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.9, 3.1.9]"
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[3.1.25, 3.1.25]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
@@ -109,7 +109,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
