@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {}
+  },
+  "projects": {
+    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
+      "restore": {
+        "projectUniqueName": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
+        "projectName": "LP-OSM-DLL",
+        "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj",
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
+    "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+        "projectName": "LP-OSM-WPF",
+        "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj": {
+                "projectPath": "G:\\Mi unidad\\UAB\\2n  3r\\LP\\PRACTICA\\part 2\\estudiants\\LP-OSM-DLL\\LP-OSM-DLL.vcxproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Toolkit.Wpf.UI.Controls": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "Microsoft.VCRTForwarders.140": {
+              "target": "Package",
+              "version": "[1.0.6, )"
+            },
+            "Microsoft.Windows.SDK.Contracts": {
+              "target": "Package",
+              "version": "[10.0.19041.1, )"
+            }
+          },
+          "imports": [
+            "uap10.0.19041",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.8, 3.1.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.9, 3.1.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
